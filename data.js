@@ -1910,6 +1910,13 @@ module.exports = [
     source: "https://raw.githubusercontent.com/maxpert/oorja/master/Class.js"
   },
   {
+    name: "Classies",
+    tags: ["css", "class", "classes"],
+    description: "Simple css class string builder without shenanigans",
+    url: "https://www.npmjs.com/package/classies",
+    source: "https://raw.githubusercontent.com/StephanHoyer/classies/master/index.js"
+  },
+  {
     name: "Classy",
     tags: ["language", "class"],
     description: "Classy is a small JavaScript library that implements Python inspired classes for JavaScript.",
